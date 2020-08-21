@@ -1,5 +1,6 @@
 <template>
   <div class="container">
+    <span> Testing first time </span>
     <div>
       <logo />
       <h1 class="title">
